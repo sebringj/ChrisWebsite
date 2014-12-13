@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sebringj/ChrisWebsite",
   "dependencies": {
+    "bower": "^1.3.12",
     "express": "^4.10.6"
   }
 }
